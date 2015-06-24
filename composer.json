@@ -1,0 +1,13 @@
+{
+    "name": "marek-vybiral/twisto-for-prestashop",
+    "description": "Twisto payment module for PrestaShop",
+    "require": {
+        "twisto-payments/twisto": "~2.8"
+    },
+    "authors": [
+        {
+            "name": "Marek Vybiral",
+            "email": "marek@vybiral.me"
+        }
+    ]
+}
