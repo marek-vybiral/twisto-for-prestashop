@@ -3,7 +3,7 @@
 if (!defined('_PS_VERSION_'))
 	exit;
 
-require_once 'vendor/autoload.php';
+require_once __DIR__.'vendor/autoload.php';
 
 date_default_timezone_set('Europe/Prague');
 
